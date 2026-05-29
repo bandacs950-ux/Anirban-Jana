@@ -1,0 +1,6 @@
+{
+  "name": "Kolkata Photography Studio",
+  "description": "Premium 4.8-star rated Kolkata Photography Studio. Specialized in wedding, bridal, couple, glamour, portrait, and commercial cinematic sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
