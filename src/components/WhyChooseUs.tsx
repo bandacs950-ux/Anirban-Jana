@@ -61,7 +61,7 @@ export default function WhyChooseUs() {
           </span>
           
           <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl font-light text-white tracking-wide leading-tight mb-6">
-            Why Select <span className="italic text-gray-400">Kartik Click &amp; Live</span>
+            Why Select <span className="italic text-gray-400">Kolkata Photo Studio</span>
           </h2>
 
           <p className="font-sans text-xs md:text-sm text-gray-400 font-light tracking-widest max-w-lg mx-auto uppercase leading-relaxed">

@@ -11,7 +11,7 @@ const portfolioItems = [
     category: 'bridal',
     categoryLabel: 'BRIDAL SHOOTS',
     image: '/src/assets/images/bengali_bride_royal_1779785186925.png',
-    location: 'Arit, Midnapore',
+    location: 'Swinhoe Ln, Kolkata',
     tags: ['Aesthetic Chandan', 'Banarasi Silk', 'Traditional Gold']
   },
   {
@@ -74,7 +74,7 @@ const portfolioItems = [
     category: 'weddings',
     categoryLabel: 'WEDDINGS',
     image: '/src/assets/images/bride_vermilion_lux_1779785318869.png',
-    location: 'Heritage Mansion, Arit',
+    location: 'Heritage Mansion, Kolkata',
     tags: ['Vermilion Vessel', 'White Mukut', 'Grand Entrance']
   },
   {

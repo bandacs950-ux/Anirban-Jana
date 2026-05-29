@@ -369,7 +369,7 @@ export default function Booking() {
                   </h3>
 
                   <p className="text-gray-400 font-sans text-xs font-light max-w-sm leading-relaxed mb-8">
-                    Your luxury portfolio shoot booking has been logged under ID: <strong className="font-mono text-[#d4af37]">KC-{Math.floor(1000 + Math.random() * 9000)}</strong>. Kartik Click Studio directors will correspond via your telephone number <strong className="text-white">{formData.phone}</strong> or email within 2 hours.
+                    Your luxury portfolio shoot booking has been logged under ID: <strong className="font-mono text-[#d4af37]">KPS-{Math.floor(1000 + Math.random() * 9000)}</strong>. Kolkata Photography Studio directors will correspond via your telephone number <strong className="text-white">{formData.phone}</strong> or email within 2 hours.
                   </p>
 
                   <div className="w-12 h-px bg-white/5 mb-8" />

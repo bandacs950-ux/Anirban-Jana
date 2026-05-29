@@ -8,7 +8,7 @@ const testimonialsData = [
     id: 'rev-1',
     name: 'Anirudh & Ritika Sen',
     role: 'Grand Wedding Couple',
-    text: 'Amazing photography and cinematic editing quality! Kartik and his team captured our traditional Bengali wedding with sheer patience and artistry. The hand-bound heritage leather album is a pure family treasure. Highly recommend their live stream videography!',
+    text: 'Amazing photography and cinematic editing quality! The studio team captured our traditional Bengali wedding with sheer patience and artistry. The hand-bound heritage leather album is a pure family treasure. Highly recommend their live stream videography!',
     rating: 5,
     date: 'January 2026',
     avatar: 'A'
@@ -26,7 +26,7 @@ const testimonialsData = [
     id: 'rev-3',
     name: 'Sayantan & Debalina',
     role: 'Sunset Pre-Wedding Shoot',
-    text: 'Professional service and premium results. We did an outdoor golden hour couple shoot at Midnapore. Kartik came equipped with heavy prime lenses, generating gorgeous bokeh backgrounds without any artificial filter feel. The turnaround delivery was incredibly fast!',
+    text: 'Professional service and premium results. We did an outdoor golden hour couple shoot. The lead photographer came equipped with heavy prime lenses, generating gorgeous bokeh backgrounds without any artificial filter feel. The turnaround delivery was incredibly fast!',
     rating: 5,
     date: 'December 2025',
     avatar: 'S'
